@@ -1,0 +1,4 @@
+disable=missing-function-docstring,
+        missing-module-docstring,
+        no-member,
+        undefined-variable
