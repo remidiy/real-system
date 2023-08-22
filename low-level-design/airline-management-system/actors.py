@@ -12,7 +12,7 @@ class Account:
 
 class Passenger:
   def __init__(self, passenger_id, name, date_of_birth, gender, passport_number):
-    self.__passenger_id = passenger_id 
+    self.__passenger_id = passenger_id
     self.__name = name
     self.__date_of_birth = date_of_birth
     self.__gender = gender
